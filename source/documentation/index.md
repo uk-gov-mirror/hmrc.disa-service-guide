@@ -5,7 +5,7 @@ weight: 1
 
 # ISA Returns API service guide
 
-**Version 0.1** issued 25 November 2025
+**Version 0.1** issued 17 December 2025
 
 ***
 
@@ -21,19 +21,19 @@ This guide includes general guidance for all users and technical instructions fo
 
 ## API overview
 
-The ISA Returns API is a REST API for submitting monthly ISA subscription reports. It supports system-to-system integration and enables ISA managers to meet HMRC's digital reporting obligations securely and efficiently.
+The ISA Returns API is a REST API for submitting monthly ISA subscription reports. It supports HMRC’s digital ISA reporting service by enabling secure, standardised and frequent digital reporting. This helps HMRC detect errors quickly and improve oversight during throughout the tax year.
 
-Use this API to:
+You can use the API to:
 
 - submit monthly reports with a cumulative total made up of current-year subscription data, including transfers and withdrawals
-- check the status of submitted reports to confirm processing
-- retrieve validation results in batches using pagination
+- check the status of submitted reports to confirm they have been processed
+- retrieve validation results using batch pagination
 
-Each report must cover ISA subscription activity from the 6th of one month to the 5th of the next, and be submitted between the 6th and 23:59 on the 19th.
+Each report must cover ISA subscription activity from the 6th of one month to the 5th of the next. You must submit your report between the 6th and 23:59 on the 19th.
 
 To use the API, your organisation must be approved by HMRC as an ISA manager and enrolled for digital ISA reporting. If you are not yet approved, you can apply through the [Manage ISAs registration process](http://b).
 
-The API is designed for integration into internal systems or third-party software. It enables organisations to reduce manual data handling and retrieve results programmatically.
+The API is designed for integration into internal systems or third-party software, reducing manual data handling and enabling programmatic access to results.
 
 This diagram shows how ISA managers or third-party organisations use application software to submit monthly reports to HMRC using the ISA Returns API.
 
