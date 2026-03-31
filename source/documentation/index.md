@@ -24,11 +24,11 @@ This guide includes general guidance for all users and technical instructions fo
 
 ## Monthly reports
 
-As part of new legislation HRMC has brought in a change to how ISAs are reported.  As well as the annual statistical return, 
-ISA managers will be required to report subscription changes on a monthly basis.  This is primarily to improve data accuracy, 
+As part of new legislation HMRC has brought in a change to how ISAs are reported. As well as the annual statistical return, 
+ISA managers will be required to report subscription changes on a monthly basis. This is primarily to improve data accuracy, 
 detect oversubscriptions in real-time, and enforce the overall £20,000 annual ISA limit more effectively.
 
-Each monthly report must include ISA subscription changes.  The month runs from the 6th of one month to the 5th of the next.  
+Each monthly report must include ISA subscription changes. The month runs from the 6th of one month to the 5th of the next.  
 
 Reports must be submitted during the reporting window which is from the 6th of the month until the reporting deadline 
 of the 19th of the month. The report submitted must be for the previous month’s data.
@@ -103,7 +103,7 @@ If you have specific questions about the API,
 [contact our Software Developer Support (SDS) Team](https://developer.service.hmrc.gov.uk/devhub-support/start).  
 You’ll get an initial response within 2 working days.
 
-You can send queries to [SDSTeam@hmrc.gov.uk](mailto:SDSTeam@hmrc.gov.uk).  We may ask for more detailed information.
+You can send queries to [SDSTeam@hmrc.gov.uk](mailto:SDSTeam@hmrc.gov.uk). We may ask for more detailed information.
 
 ## Changelog
 
