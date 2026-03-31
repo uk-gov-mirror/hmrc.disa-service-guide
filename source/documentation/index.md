@@ -37,7 +37,7 @@ of the 19th of the month. The report submitted must be for the previous month’
 
 The ISA Returns API is a REST API for submitting monthly ISA subscription reports. It supports HMRC’s digital ISA reporting 
 service by enabling secure, standardised and frequent digital reporting. This helps HMRC detect errors quickly and improve 
-oversight during throughout the tax year.
+oversight throughout the tax year.
 
 You can use the API to:
 
@@ -49,7 +49,8 @@ Each report must cover ISA subscription activity from the 6th of one month to th
 report between the 6th and 23:59 on the 19th.
 
 To use the API, your organisation must be approved by HMRC as an ISA manager and enrolled for digital ISA reporting. 
-If you are not yet approved, you can apply through the [Manage ISAs registration process](http://b).
+If you are not yet approved, you can apply through the 
+[Manage ISAs registration process](https://www.tax.service.gov.uk/obligations/enrolment/isa).
 
 The API is designed for integration into internal systems or third-party software, reducing manual data handling and 
 enabling programmatic access to results.
